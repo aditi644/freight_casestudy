@@ -1,0 +1,13 @@
+route,week_of,expected_flagged,expected_note,why_i_labeled_it_this_way
+Delhi-Jaipur,2024-11-11,Yes,,No note covers Delhi-Jaipur in Nov 2024 (N007 is May 2024 and only says roads improved)
+Delhi-Jaipur,2024-11-18,Yes,,Same as above
+Ahmedabad-Mumbai,2025-01-20,No (justified),N002,Festival-week surcharge note dated that exact Monday
+Mumbai-Pune,2025-09-15,Yes,,Only nearby note N006 says demand stable / no disruptions
+Chennai-Bangalore,2025-02-24,No (justified),N001,Flood window Feb 24-Mar 8 covers the whole week
+Chennai-Bangalore,2025-03-03,No (justified),N001,Week Mar 3-9: 6 of 7 days inside the flood window
+Chennai-Bangalore,2025-03-10,Yes,,Roads passable from Mar 9 - week is entirely after the window (wrong window)
+Chennai-Bangalore,2025-03-17,Yes,,N009 says route back to normal - it does not explain a rise
+Mumbai-Delhi,2025-05-12,Yes,,Diesel note explains ~5-7% but observed rise is 11.6%
+Mumbai-Pune,2025-06-23,Yes,,Trigger is a gap vs peers; network-wide diesel hits peers equally
+Mumbai-Pune,2025-10-27,Yes,,N010 says tracking-mandate costs absorbed with no rate change
+Delhi-Chennai,2024-02-05,Yes,,No note for Delhi-Chennai; N004 toll note says affected routes are not in dataset
